@@ -1,0 +1,23 @@
+# Liste des fichiers … ignorer 
+# Ignorer les fichiers objets compilés
+*.o
+
+# Ignorer les fichiers binaires compilés (Java)
+bin/
+*.class
+
+# Ignorer les fichiers Eclipse
+.classpath
+.project
+.settings/
+
+# Ignorer les fichiers temporaires ou système
+*~
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Ignorer les exécutables
+*.exe
+*.out
+
